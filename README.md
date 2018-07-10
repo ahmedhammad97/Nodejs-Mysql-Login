@@ -1,2 +1,2 @@
 # Nodejs-Mysql-Login
-Practicing my Nodejs, Express, ejs, Mysql.
+Practicing my nodejs, express, ejs, mysql and bcrypt.
